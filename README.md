@@ -17,6 +17,11 @@ Dark Mode Toggle:e:** Easy switch for comfortable, low-light calculations.
 Modern Stack:k:** Powered by vaniJavaScriptpt** for core logic Tailwind CSS** for utility-first styling.
 
 ## 🚀 Demos & Links
+
+دوره فرنت اند :  https://trainingsitedesign.ir/learn-web-design/
+
+
+
 <ul><li><a href=https://nastaran-dev.github.io/calculate-responsive/src/index1.html> Live Demo</a></li></ul>
  🤝 Connect & Follow
  🔗LinkedIn: https://www.linkedin.com/in/nastaran-mohammadi-1515a8382
