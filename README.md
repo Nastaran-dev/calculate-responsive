@@ -18,8 +18,6 @@ Modern Stack:k:** Powered by vaniJavaScriptpt** for core logic Tailwind CSS** fo
 
 ## 🚀 Demos & Links
 
-دوره فرنت اند :  https://trainingsitedesign.ir/learn-web-design/
-
 
 
 <ul><li><a href=https://nastaran-dev.github.io/calculate-responsive/src/index1.html> Live Demo</a></li></ul>
